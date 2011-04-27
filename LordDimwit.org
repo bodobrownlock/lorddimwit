@@ -13,10 +13,8 @@ I hope that somebody finds it helpful.
 Lord Dimwit 
 
 7-11-04
-
 #+end_quote
 
--------------------------------------------
 
 * Disclaimer and Greeting
 ** Welcome
