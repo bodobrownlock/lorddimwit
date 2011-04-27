@@ -1,9 +1,4 @@
-#+TITLE:    Lord Dimwit's Advanced Strategy Guide ToME 2
-#+AUTHOR:    Lord Dimwit
-#+DATE:      2011-04-26 Tue
-#+LANGUAGE:  en
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+Lord Dimwit's Advanced Strategy Guide ToME 2
 
 #+begin_quote
 Hello everyone,
