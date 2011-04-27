@@ -1,4 +1,4 @@
-﻿#+TITLE:     Lord Dimwit's Advanced Strategy Guide ToME 2
+#+TITLE:    Lord Dimwit's Advanced Strategy Guide ToME 2
 #+AUTHOR:    Lord Dimwit
 #+DATE:      2011-04-26 Tue
 #+LANGUAGE:  en
